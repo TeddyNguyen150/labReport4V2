@@ -14,10 +14,10 @@ Step 6:
 ![image](https://github.com/TeddyNguyen150/labReport4V2/assets/156158048/4f74f198-9c3d-45ec-b29a-4d5b9286c5a7)
 cd<space>l<tab><enter>
   Since I know lab7 is the only thing that starts with l, I used tab to autofill it.
-![image](https://github.com/TeddyNguyen150/labReport4V2/assets/156158048/578a4c29-b28d-47b2-b21b-b395aeacf23f)
+![image](https://github.com/TeddyNguyen150/labReport4V2/assets/156158048/0a815581-22b2-4040-9cbb-2c570eab181a)
 ls<enter>
   Checks what's in the files.
-![image](https://github.com/TeddyNguyen150/labReport4V2/assets/156158048/2971ad80-24ca-46ac-b956-e26ee1a185cf)
+![image](https://github.com/TeddyNguyen150/labReport4V2/assets/156158048/f0ec9238-cb10-48b4-9d64-92a13b595375)
 bash<space>t<tab><enter>
   test.sh is the only thing that starts with a t, so I can auto fill it with tab and run it to start the tests.
 
