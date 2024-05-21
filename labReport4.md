@@ -14,10 +14,10 @@ Step 6:
 ![image](https://github.com/TeddyNguyen150/labReport4V2/assets/156158048/4f74f198-9c3d-45ec-b29a-4d5b9286c5a7)
 cd<space>l<tab><enter>
   Since I know lab7 is the only thing that starts with l, I used tab to autofill it.
-![image](https://github.com/TeddyNguyen150/labReport4V2/assets/156158048/0a815581-22b2-4040-9cbb-2c570eab181a)
+![image](https://github.com/TeddyNguyen150/labReport4V2/assets/156158048/76a971c6-54c1-4b28-bc75-15a84c5d3d4b)
 ls<enter>
   Checks what's in the files.
-![image](https://github.com/TeddyNguyen150/labReport4V2/assets/156158048/f0ec9238-cb10-48b4-9d64-92a13b595375)
+![image](https://github.com/TeddyNguyen150/labReport4V2/assets/156158048/1d6e4068-ca2d-484f-803d-f3a6226d931b)
 bash<space>t<tab><enter>
   test.sh is the only thing that starts with a t, so I can auto fill it with tab and run it to start the tests.
 
@@ -37,13 +37,13 @@ Step 8:
   bash test.sh was already a previously used command so <up><up><enter> goes back and reruns the command.
 
 Step 9:
-![image](https://github.com/TeddyNguyen150/labReport4V2/assets/156158048/0bc5ade9-2e74-4931-b420-b27a02cdcc64)
+![image](https://github.com/TeddyNguyen150/labReport4V2/assets/156158048/9832da39-9a2d-4831-9a8a-81651bda5c69)
 git<space>add<space><shift+l><tab><enter>
   It autocompletes ListExamples.java for me to add.
-![image](https://github.com/TeddyNguyen150/labReport4V2/assets/156158048/eab0fffb-a54f-4278-bf38-0508dbc32e58)
+![image](https://github.com/TeddyNguyen150/labReport4V2/assets/156158048/a6c6da79-0c48-48a4-b9d1-aacc73260e5a)
 git<space>commit<enter>itest<shift+;>wq<enter>
   after typing out git commit, I wrote test as my message and exited and saved the message with :wq.
-![image](https://github.com/TeddyNguyen150/labReport4V2/assets/156158048/30b59608-e441-4d74-8875-6258c05bb6fd)
+![image](https://github.com/TeddyNguyen150/labReport4V2/assets/156158048/abbb7111-d779-40c7-aff8-01956d155733)
 git<space>push<enter>
   pushes all the changes verified by git commit,
 I put in my info to continue to push the changes.
